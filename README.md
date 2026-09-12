@@ -9,7 +9,7 @@ Welcome to my frontend practice repository! This space is dedicated to tracking 
 
 ## 💻 How to Run Locally
 Since these are vanilla web development files, you don't need any special build tools to view them.
-1. Clone this repository: `git clone https://github.com/YourUsername/YourRepoName.git`
+1. Clone this repository: `git clone https://github.com/mohantyjasmine2007-ai/Html-CSS-JS.git`
 2. Navigate to the specific project folder.
 3. Open the `index.html` file directly in your web browser, or use an extension like **Live Server** in VS Code.
 
